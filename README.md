@@ -1,2 +1,5 @@
-Last problem set completed from edX's MITx - 6.00.1x intro to computer science with python
+# Object-Oriented Programming Assignment
 
+https://www.edx.org/course/introduction-to-computer-science-and-programming-7
+
+Using python's OOP paradigm create a Caesar shift encryption.
